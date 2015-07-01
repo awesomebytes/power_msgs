@@ -10,7 +10,7 @@ find_package(catkin REQUIRED
 add_message_files(
   FILES
     BreakerState.msg
-    BatteryStatus.msg
+    BatteryState.msg
 )
 
 add_service_files(
